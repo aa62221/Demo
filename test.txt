@@ -3,11 +3,11 @@
 
  Directory of C:\Users\Dell\git
 
-20-01-2025  23:27    <DIR>          .
-20-01-2025  23:27    <DIR>          ..
+20-01-2025  23:39    <DIR>          .
+20-01-2025  23:39    <DIR>          ..
 20-01-2025  22:13    <DIR>          MavenProject
 20-01-2025  22:12    <DIR>          PractiseProgram
 20-01-2025  22:12    <DIR>          repository
-20-01-2025  23:27                 0 test.txt
+20-01-2025  23:39                 0 test.txt
                1 File(s)              0 bytes
-               5 Dir(s)  155,059,621,888 bytes free
+               5 Dir(s)  155,063,128,064 bytes free
